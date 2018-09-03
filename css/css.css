@@ -1,0 +1,58 @@
+
+body {
+
+    background-color: #e6f2ff;
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    border-style: solid;
+    border-color: #99ccff;
+    border-width: 2px;
+    border-radius: 20px;
+
+}
+
+html {
+    background-color: white;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+}
+
+.text {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    font-family: Cabin Sketch;
+    font-weight: normal;
+}
+
+.blockquote {
+    text-align: center;
+    font-family: Give You Glory;
+    border: 1px solid #99ccff;
+    border-radius: 5px;
+    background: white;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    line-height: 30px;
+
+}
+
+.author {
+    font-family: Give You Glory;
+    font-style: italic;
+    font-size: 35px;
+    color: red;
+}
